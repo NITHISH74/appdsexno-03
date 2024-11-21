@@ -1,7 +1,7 @@
 # EX-03 Implementing Recommendation Systems
 ### Aim:
 To Implement Recommendation Systems using the suitable data sets. 
-### Algorithm
+### Algorithm:
 STEP 1: Load the necessary Datasets and include the python libraries.<br>
 STEP 2: Use Fuzzy library for handling text data and Perform Data Preprocessing steps.<br>
 STEP 3: Standardize column names for merging and Apply fuzzy matching to find similar text data between datasets.<br>
