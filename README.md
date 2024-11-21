@@ -1,7 +1,7 @@
 # EX-03 Implementing Recommendation Systems
 ## Aim:
 To Implement Recommendation Systems using the suitable data sets. 
-## Algorithm
+## Algorithm:
 STEP 1:
 
 Load the necessary Datasets and include the python libraries.<br>
